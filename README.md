@@ -1,0 +1,7 @@
+# JavaWeek11
+
+Youtube:
+https://youtu.be/J7ktrWFKS6c
+
+5-Pisteen toiminnallisuus.
+Tein videota varten aluksi jo valmiit tuotteet listaan, jotta voi nähdä että lisäysjärjestykseen lajittelu toimii.
